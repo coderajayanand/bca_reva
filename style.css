@@ -1,0 +1,8 @@
+body{
+	background: lightpink;
+	border: solid black 10px;
+}
+.cont a
+{
+	display: none;
+}
