@@ -12,6 +12,6 @@ function validate()
 	}
 	else
 	{
-		document.getElementById('result').innerHTML = "MADAM AVRE !!, CORRECT PASSWORD TYPE MAADI";
+		document.getElementById('result').innerHTML = "STUDENTS, ENTER CORRECT PASSWORD ";
 	}
 }
